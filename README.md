@@ -19,7 +19,7 @@
 - 2分钟，全面了解政府大数据门类及应用！
 - 新加坡大数据公司Lynx Analytics拿到1000万美元投资
 - Stack Overflow网站：30台服务器支撑日均1.7亿PV ？
-<a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160607.pdf">**下载**</a>
+- <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160607.pdf">**下载**</a>
 
 ## 2016年05月31日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160531.pdf">**本期动态**</a>主要有：
