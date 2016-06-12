@@ -3,7 +3,7 @@
 
 @(大数据)[投资|技术]
 
-**bigdata** 是一个为国人提供大数据资讯的项目，资讯来源于各大知名互联网门户并进行汇总整理，所有内容均已交流学习为目的，欢迎任何形式建议与意见的反馈<a href="hanyueqi@cnic.cn">hanyueqi@cnic.cn</a>。
+**bigdata** （<a href="https://github.com/sens2010/bigdata">https://github.com/sens2010/bigdata</a>）是一个为国人提供大数据资讯的项目，资讯来源于各大知名互联网门户并进行汇总整理，所有内容均已交流学习为目的，欢迎任何形式建议与意见的反馈<a href="hanyueqi@cnic.cn">hanyueqi@cnic.cn</a>。
 
 ----------
 
