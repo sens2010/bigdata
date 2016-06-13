@@ -9,15 +9,15 @@
 
 ## 2016年06月07日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160607.pdf">**本期动态**</a>主要有：
-- 亚马逊正在蚕食这个世界
-- 柳叶刀客利用VR“解剖”医疗行业
-- Facebook发布人工智能引擎Deep Text
-- Findo获300万美元种子轮融资
 - 比Spark快10倍的Hadoop3.0有哪些实用新特性？
-- 阿里投资大数据电商搜索引擎Twiggle公司
-- 安全大数据公司微步在线(ThreatBook)获3500万A轮融资
+- 亚马逊正在蚕食这个世界
+- Facebook发布人工智能引擎Deep Text
 - 2分钟，全面了解政府大数据门类及应用！
+- 柳叶刀客利用VR“解剖”医疗行业
+- 阿里投资大数据电商搜索引擎Twiggle公司
+- Findo获300万美元种子轮融资
 - 新加坡大数据公司Lynx Analytics拿到1000万美元投资
+- 安全大数据公司微步在线(ThreatBook)获3500万A轮融资
 - Stack Overflow网站：30台服务器支撑日均1.7亿PV ？
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160607.pdf">**下载**</a>
 
