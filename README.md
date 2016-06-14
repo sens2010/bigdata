@@ -19,7 +19,7 @@
 - “二手车无忧”通过车辆历史使用数据累计，10秒识别事故车
 - Uber的快递梦！
 - 上海市公共信用信息平台已归集1050万条法人及3.03亿条自然人数据
-- 剖析Linkedln遭遇的Kafka“危机故障”
+- 剖析Linkedln遭遇的Kafka“危机故障”
 - 相关会议
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160614.pdf">**下载**</a>
 
