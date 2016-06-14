@@ -24,6 +24,7 @@
 - 相关会议
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160614.pdf">**下载**</a>
 
+----------
 ## 2016年06月07日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160607.pdf">**本期动态**</a>主要有：
 - 比Spark快10倍的Hadoop3.0有哪些实用新特性？
@@ -38,6 +39,7 @@
 - Stack Overflow网站：30台服务器支撑日均1.7亿PV ？
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160607.pdf">**下载**</a>
 
+----------
 ## 2016年05月31日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160531.pdf">**本期动态**</a>主要有：
 - “科技三会”在京召开
@@ -54,6 +56,7 @@
 - 彩蛋：《与但丁讨论神曲》
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160531.pdf">**下载**</a>
 
+----------
 ## 2016年05月24日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160524.pdf">**本期动态**</a>主要有：
 - Google I/O大会（数据概览、新品发布）
@@ -67,6 +70,7 @@
 - 大数据应用在互联网金融借贷行业的实践
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160524.pdf">**下载**</a>
 
+----------
 ## 2016年05月17日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160517.pdf">**本期动态**</a>主要有：
 - Enterprise Data World会议
@@ -87,6 +91,7 @@
 - 互联网产品、大数据、云计算这几年真的是这么过来的
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160517.pdf">**下载**</a>
 
+----------
 ## 2016年05月04日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160504.pdf">**本期动态**</a>主要有：
 - 市值过10亿的大数据公司
@@ -102,6 +107,7 @@
 - 大数据资讯网站（英文）
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160504.pdf">**下载**</a>
 
+----------
 ## 2016年04月27日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160427.pdf">**本期动态**</a>主要有：
 - 5 Big Data Trends Impacting Financial Institutions in 2016
@@ -115,6 +121,7 @@
 - 近期活动
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160427.pdf">**下载**</a>
 
+----------
 ## 2016年04月20日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160420.pdf">**本期动态**</a>主要有：
 - Apache Sentry项目发布
@@ -123,3 +130,5 @@
 - 谷歌的海量数据排序实验史
 - The 2016 Big Data Landscape
 - <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160420.pdf">**下载**</a>
+
+----------
