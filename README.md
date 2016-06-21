@@ -7,7 +7,21 @@
 
 ![image](https://github.com/sens2010/bigdata/blob/master/images/bigdata.jpg)
 ----------
+## 2016年06月21日
+<a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160621.pdf">**本期动态**</a>主要有：
+- 从拒绝460亿美金到接受60亿美金，没落的巨人——雅虎
+- 京东获沃尔玛战略入股5%并拥有1号店，新老零售融合
+- 融科技公司 Plaid 获 4400万美元B轮融资，用于推进客户银行数据共享
+- 万达和阿里不断在IP上发力，谁将是未来娱乐产业的龙头？
+- LinkedIn到底是如何通过大数据盈利的？
+- Twitter收购机器学习Magic Pony，开启人工智能化社交
+- 全球超级计算TOP500榜单新鲜出炉，中国“神威·太湖之光”名列榜首
+- 深度理解自动驾驶产业
+- 政府大数据应用案例
+- 一家商业数据分析公司SAS，如何保持了40年的持续增长？
+- <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160621.pdf">**下载**</a>
 
+----------
 ## 2016年06月14日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160614.pdf">**本期动态**</a>主要有：
 - 世界顶尖数据科学家看未来十年大数据发展
