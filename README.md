@@ -3,9 +3,25 @@
 
 @(大数据)[投资|技术]
 
-**bigdata** （<a href="http://sens2010.github.io/bigdata/">http://sens2010.github.io/bigdata</a>）是一个为国人提供大数据资讯的项目，资讯来源于各大知名互联网门户并进行汇总整理，所有内容均以交流学习为目的，欢迎任何形式建议与意见的反馈<a href="hanyueqi@cnic.cn">hanyueqi@cnic.cn</a>。
+**bigdata** （<a href="https://sens2010.gitbooks.io/bigdata/content/">https://sens2010.gitbooks.io/bigdata</a>）是一个为国人提供大数据资讯的项目，资讯来源于各大知名互联网门户并进行汇总整理，所有内容均以交流学习为目的，欢迎任何形式建议与意见的反馈<a href="hanyueqi@cnic.cn">hanyueqi@cnic.cn</a>。
 
-![image](https://github.com/sens2010/bigdata/blob/master/images/bigdata.jpg)
+![BigData](http://img.blog.csdn.net/20160614211755336)
+
+----------------
+
+## 2016年06月28日
+<a href="https://sens2010.gitbooks.io/bigdata/content/20160628.html">**本期动态**</a>主要有：
+- 流量和政策需求下，PGC或许才是移动直播的最佳打开方式
+- 腾讯总裁刘炽平亲自操刀，86亿美元鲸吞Super Cell
+- 陈天桥成为Lending Club最大股东，公司立刻任命新董事长还要裁员
+- 猎聘宣布完成超1亿美元D轮融资 估值近10亿美元
+- 农村电商“汇通达”获招商银行3亿元投资，切入农村靠夫妻店
+- 卫星图像分析公司 Orbital Insight获 2000万美元 B轮融资，由谷歌风投（GV）领投
+- Hyperloop One 获 8000万美元B轮融资，两家俄罗斯基金参投，欲在俄罗斯全国范围内部署超级高铁
+- 机器学习成功预测英国退出欧盟
+- Twitter新开源的Heron是否可以完全取代Storm？
+- 用Akka解决Spark+ElasticSearch实时计算平台的瓶颈
+- <a href="https://sens2010.gitbooks.io/bigdata/content/20160628.html">**查看**</a>
 ----------
 ## 2016年06月21日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160621.pdf">**本期动态**</a>主要有：
