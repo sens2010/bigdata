@@ -7,6 +7,21 @@
 
 ![BigData](http://img.blog.csdn.net/20160614211755336)
 
+----------
+## 2016年07月05日
+<a href="https://sens2010.gitbooks.io/bigdata/content/20160705.html">**本期动态**</a>主要有：
+- 大数据的“小观点”
+- 野人走出山洞：从MWCS 2016看物联网产业链的探索
+- 宝马联手英特尔和Mobileye打造无人驾驶汽车，计划2021年实现量产
+- 支付公司 Index 完成1900万美元B轮融资，做智能支付的另一端
+- 云计算和大数据技术服务公司“袋鼠云”获元璟资本领投450万美元Pre-A轮投资
+- 智能硬件公司Tempo Automation获800万美元A轮融资，想要帮助初创企业实现智能硬件的小批量制造
+- 数据集成软件公司 Talend 进行 IPO，融资 8600 万美元
+- 解构京东智慧物流：智能化设备+大数据技术
+- Twitter新开源的Heron是否可以完全取代Storm？
+- LinkedIn开源Photon机器学习：支持Spark
+- 区块链之崛起
+- <a href="https://sens2010.gitbooks.io/bigdata/content/20160628.html">**查看**</a>
 ----------------
 
 ## 2016年06月28日
