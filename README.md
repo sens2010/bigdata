@@ -22,6 +22,7 @@
 - LinkedIn开源Photon机器学习：支持Spark
 - 区块链之崛起
 - <a href="https://sens2010.gitbooks.io/bigdata/content/20160628.html">**查看**</a>
+
 ----------------
 
 ## 2016年06月28日
@@ -37,6 +38,8 @@
 - Twitter新开源的Heron是否可以完全取代Storm？
 - 用Akka解决Spark+ElasticSearch实时计算平台的瓶颈
 - <a href="https://sens2010.gitbooks.io/bigdata/content/20160628.html">**查看**</a>
+
+
 ----------
 ## 2016年06月21日
 <a href="https://github.com/sens2010/bigdata/blob/master/%E4%B8%9A%E7%95%8C%E5%8A%A8%E6%80%8120160621.pdf">**本期动态**</a>主要有：
