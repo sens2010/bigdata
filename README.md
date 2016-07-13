@@ -8,6 +8,22 @@
 ![BigData](http://img.blog.csdn.net/20160614211755336)
 
 ----------
+
+## 2016年07月12日
+<a href="https://sens2010.gitbooks.io/bigdata/content/20160712.html">**本期动态**</a>主要有：
+- 海龙大厦被关停，电子卖场全线转型孵化器
+- 国土资源部发布《关于印发促进国土资源大数据应用发展实施意见》
+- 阿里巴巴全资收购豌豆荚
+- 脱欧后首笔对英最大投资，万达 9.21 亿英镑买下了欧洲最大院线
+- eBay 收购以色列数据分析公司SalesPredict
+- 数据分析和协作平台 Data.World 获 1400 万美元 A 轮融资，推动数据开放运动
+- 数据科学技术公司Black Swan Data获620万英镑B轮融资
+- 机器人智能医疗设备公司3Scan获得1400万美元B轮融资，开发机器人显微镜，加速药物探索
+- 德国人工智能客户服务平台 Parlamind 获165万美元种子轮融资
+- Docker Swarm已死！Docker Swarm万岁！
+- <a href="https://sens2010.gitbooks.io/bigdata/content/20160712.html">**查看**</a>
+----------
+
 ## 2016年07月05日
 <a href="https://sens2010.gitbooks.io/bigdata/content/20160705.html">**本期动态**</a>主要有：
 - 大数据的“小观点”
