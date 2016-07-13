@@ -22,6 +22,7 @@
 - 德国人工智能客户服务平台 Parlamind 获165万美元种子轮融资
 - Docker Swarm已死！Docker Swarm万岁！
 - <a href="https://sens2010.gitbooks.io/bigdata/content/20160712.html">**查看**</a>
+
 ----------
 
 ## 2016年07月05日
